@@ -1,0 +1,18 @@
+.arial {
+	font-family: arial;
+}
+
+.profilePic {
+	width: 100px;
+	height: 125px;
+}
+
+h1 {
+	background-color: #8932a8;
+	color: yellow;
+	font-family: arial;
+}
+
+p {
+	font-family: arial;
+}
