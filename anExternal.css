@@ -3,6 +3,24 @@ img {
 	height: 50px;
 }
 
-.floating {
-	float: left;
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: GhostWhite;
+}
+
+p.dotted {
+	border-style: dotted;
+}
+
+.margin {
+	margin: 20px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
 }
