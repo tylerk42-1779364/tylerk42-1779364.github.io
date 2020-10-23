@@ -1,0 +1,80 @@
+
+/*IDs*/
+#submitButton{
+	background-color: #63cddb;
+	border: 1px solid gray;
+	border-radius: 4px;
+	color: white;
+	padding: 8px 16px;
+	text-decoration: none;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+/* Text Types*/
+h2{
+	font-family: arial;
+}
+
+fieldset{
+	font-family: arial;
+}
+
+input {
+	margin-bottom: 5px;
+	padding: 5px;
+}
+
+label{
+	font-weight: bold;
+}
+
+div{
+	padding: 5px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+fieldset{
+	border-top-style: solid;
+	border-right-style: hidden;
+	border-bottom-style: hidden;
+	border-left-style: hidden;
+}
+
+/*Input types*/
+
+input[type=text] {
+	border: 1px solid gray;
+	border-radius: 4px;
+	width: 100%;
+}
+
+input[type=password] {
+	border: 2px solid black;
+	border-radius: 4px;
+	width: 100%;
+}
+
+input [type=radio] {
+	margin: 5px;
+}
+
+input [type=checkbox] {
+	margin: 5px;
+}
+
+select{
+	padding: 5px;
+	border: 2px solid black;
+	border-radius: 4px;
+	margin-bottom: 5px;
+}
+
+textarea{
+	padding: 5px;
+	border: 2px solid black;
+	border-radius: 4px;
+	width: 70%;
+	margin-bottom: 10px;
+}
